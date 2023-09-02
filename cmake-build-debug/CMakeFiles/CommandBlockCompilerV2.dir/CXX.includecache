@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/colli/CLionProjects/CommandBlockCompilerv2/HelperFunctions.h
+Integer.h
+C:/Users/colli/CLionProjects/CommandBlockCompilerv2/Integer.h
+Position.h
+C:/Users/colli/CLionProjects/CommandBlockCompilerv2/Position.h
+vector
+-
+string
+-
+algorithm
+-
+unordered_set
+-
+
+C:/Users/colli/CLionProjects/CommandBlockCompilerv2/Integer.h
+vector
+-
+string
+-
+algorithm
+-
+
+C:/Users/colli/CLionProjects/CommandBlockCompilerv2/Position.h
+vector
+-
+string
+-
+algorithm
+-
+
+C:/Users/colli/CLionProjects/CommandBlockCompilerv2/main.cpp
+iostream
+-
+HelperFunctions.h
+C:/Users/colli/CLionProjects/CommandBlockCompilerv2/HelperFunctions.h
+
